@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**Working** knowledge of C++ and Python_
+
+_Strong **Analytical Skills**_
+
+_**Writer, Thinker and Entrepeneur**_
