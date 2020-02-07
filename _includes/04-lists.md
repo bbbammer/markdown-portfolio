@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Favorite Movies
+  -Shawshank Redemption
+  -American Hustle
+  -Django Unchained
+- Hobbies
+  - Learning
+  - Exercise
+  - Food
