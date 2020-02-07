@@ -1,0 +1,8 @@
+- Favorite Movies
+  -Shawshank Redemption
+  -American Hustle
+  -Django Unchained
+- Hobbies
+  - Learning
+  - Exercise
+  - Food
